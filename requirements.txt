@@ -1,0 +1,3 @@
+gradio
+textblob
+deep-translator 

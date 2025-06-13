@@ -1,0 +1,30 @@
+# Sanal ortam klasörü
+venv/
+
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+.DS_Store
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints/
+
+# Diğer
+.env 
+
+.gitattributes
+.gitignore
+.gitkeep
+.gitignore
+.gitattributes
+.gitignore
