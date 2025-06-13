@@ -1,3 +1,13 @@
+
+    "gradio": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://emredeveloper-mcp-turkish-sentiment.hf.space/gradio_api/mcp/sse"
+      ]
+
+
+
 ---
 title: Mcp Turkish Sentiment
 emoji: 🚀
