@@ -11,4 +11,4 @@ license: apache-2.0
 short_description: 'Turkish sentiment analysis - Türkçe duygu analizi '
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out Huggingace Space : https://huggingface.co/spaces/emredeveloper/mcp-turkish-sentiment
